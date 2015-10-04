@@ -7,8 +7,8 @@ This C# solution provides a way to remove a COBOL executable with a .Net executa
 
 This also demonstrates the capability of getting the output from an executable to a web application.
 
-CONTENTS
-ConsoleApplication - executable which takes a parameter, processes it and writes output to console.
-ConsoleApplicationOutputGet - executable which calls(executes) ConsoleApplication and gets the output from it back as a string.
+CONTENTS<br/>
+ConsoleApplication - executable which takes a parameter, processes it and writes output to console.<br/>
+ConsoleApplicationOutputGet - executable which calls(executes) ConsoleApplication and gets the output from it back as a string.<br/>
 ConsoleApplicationHost - web application which calls(executes) ConsoleApplication and gets the output from it back as a string.
 
